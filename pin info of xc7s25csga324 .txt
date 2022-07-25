@@ -1,0 +1,3 @@
+The origional part number is XC7S25-1CSGA324C. 
+Here speed grade and temperature range is missing.
+https://www.xilinx.com/support/packagefiles/s7packages/xc7s25csga324pkg.txt
